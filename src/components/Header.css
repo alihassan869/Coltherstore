@@ -1,0 +1,24 @@
+.search-box {
+  border-radius: 40px;
+  width: 300px;
+  color: white;
+}
+
+.search-btn {
+  color: white;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+  background-color: gray;
+  width: 400px;
+}
+#text-box {
+  border: none;
+  outline: none;
+  background: none;
+  padding: 0;
+  color: white;
+  font-size: 16px;
+  transition: 0.4s;
+  width: 0px;
+  width: 240px;
+} 
